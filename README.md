@@ -1,14 +1,7 @@
 # Gana.html
 <html>
 <head>
-<title></title>
-<style>
-table,th,td{
-border: 2px solid red;
-border-collapse:collapse;
-}
-</style>
-</head>
+<title>Ganapathi</title>
 <body>
   <table>
 <caption>ipl teams</caption>
@@ -68,4 +61,5 @@ border-collapse:collapse;
 </tr>
   </table>
 </body>
+</head>
 </html>
